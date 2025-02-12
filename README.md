@@ -61,4 +61,5 @@
   - Description: Displays a menu, processes user input, and calls the selected function
 
 ### Listing of files required and what type they are (.h header, .c c code, etc..)
-- lab01.c
+- lab01.c (Program)
+- README.txt (Design Doc)
